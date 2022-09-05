@@ -7,42 +7,42 @@ import Jieni from "@/assets/img/jieni.webp";
 const animalList = [
   {
     id: 1,
-    name: "皮卡丘",
-    price: "1000",
+    name: "大型仪器A",
+    price: "10W",
     unit: "RMB",
-    category: "雷电系",
+    category: "农工院",
     color: "bg-yellow-300",
-    description: "小智的那只最牛",
+    description: "实验室",
     img: PiKa
   },
   {
     id: 2,
-    name: "方酱",
-    price: "600",
+    name: "大型仪器B",
+    price: "20W",
     unit: "RMB",
-    category: "草系",
+    category: "计算机学院",
     color: "bg-green-500",
-    description: "只会睡觉",
+    description: "实验室",
     img: Kabi
   },
   {
     id: 3,
-    name: "可达鸭",
-    price: "50",
+    name: "大型仪器C",
+    price: "30W",
     unit: "RMB",
-    category: "精神系",
+    category: "物联网院",
     color: "bg-yellow-500",
-    description: "最近在肯德基很火",
+    description: "实验室",
     img: Keda
   },
   {
     id: 4,
-    name: "杰尼龟",
-    price: "70",
+    name: "大型仪器D",
+    price: "40W",
     unit: "RMB",
-    category: "水系",
+    category: "理学院",
     color: "bg-blue-400",
-    description: "他会咬你信不信",
+    description: "实验室",
     img: Jieni
   }
 ];

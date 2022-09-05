@@ -38,7 +38,7 @@ export const setupDashobardAttributes = () => {
 
   const activityTableData = [
     {
-      name: "可达鸭",
+      name: "农工院",
       price: 50,
       unit: "RMB",
       category: "精神系",
@@ -47,7 +47,7 @@ export const setupDashobardAttributes = () => {
       sortUnit: "up"
     },
     {
-      name: "皮卡丘",
+      name: "物联网院",
       price: 1000,
       unit: "RMB",
       category: "雷电系",
@@ -56,7 +56,7 @@ export const setupDashobardAttributes = () => {
       sortUnit: "up"
     },
     {
-      name: "方酱",
+      name: "计信院",
       price: 600,
       unit: "RMB",
       category: "草系",
@@ -65,7 +65,7 @@ export const setupDashobardAttributes = () => {
       sortUnit: "down"
     },
     {
-      name: "杰尼龟",
+      name: "理学院",
       price: 70,
       unit: "RMB",
       category: "水系",
@@ -74,7 +74,7 @@ export const setupDashobardAttributes = () => {
       sortUnit: "up"
     },
     {
-      name: "波克比",
+      name: "机电院",
       price: 1900,
       unit: "RMB",
       category: "精神系",
